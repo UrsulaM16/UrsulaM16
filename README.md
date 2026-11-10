@@ -30,7 +30,8 @@ Ahora estoy ampliando mis conocimientos en programación y bases de datos. Me in
 
 ### Mi trabajo en GitHub
 
-Aquí documento mis ejercicios, prácticas y avances en programación y bases de datos.
+**[Ejercicios de Python](ejercicios-python/)**  
+Dos prácticas ejecutables sobre herencia y funciones con condicionales.
 
 **[Bases de datos relacionales](https://github.com/UrsulaM16/bdd)**  
 Apuntes y material de estudio sobre diseño y fundamentos de bases de datos.
