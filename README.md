@@ -40,4 +40,4 @@ Mi objetivo es incorporarme al sector tecnológico en soporte de aplicaciones, g
 
 ---
 
-**[LinkedIn](https://www.linkedin.com/in/ursula-millan-pe%C3%B1a-595b951b5/)** · Madrid, España
+**[LinkedIn](https://www.linkedin.com/in/ursula-millan-pena)** · Madrid, España
