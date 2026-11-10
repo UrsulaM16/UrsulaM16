@@ -7,11 +7,9 @@
 
 ### Un poco sobre mí
 
-Mi trayectoria profesional combina la atención a usuarios, la gestión de incidencias y una nueva etapa de formación tecnológica.
+Soy una profesional con experiencia en soporte a usuarios, gestión y seguimiento de incidencias y coordinación con equipos técnicos. Actualmente estoy orientando mi trayectoria hacia el sector tecnológico, combinando mi experiencia laboral con formación en programación y bases de datos.
 
-En Grupo Diusframi atendí a comercios con incidencias en servicios y terminales de pago (TPV). Utilicé Salesforce CRM para abrir y actualizar casos, registrar observaciones y hacer seguimiento. También coordiné solicitudes por correo con técnicos y mensajería y creé plantillas para documentar incidencias recurrentes.
-
-Ahora estoy ampliando mis conocimientos en programación y bases de datos. Me interesa especialmente entender cómo funcionan las aplicaciones, resolver problemas y hacer que la tecnología resulte útil para las personas.
+Durante mi etapa en Diusframi (2023–2025), trabajé con Salesforce CRM para registrar, actualizar y hacer seguimiento de casos relacionados con servicios y terminales de pago (TPV). También gestioné comunicaciones por correo, colaboré con equipos técnicos y elaboré plantillas para organizar y agilizar la comunicación de incidencias recurrentes.
 
 ### Tecnologías y herramientas
 
