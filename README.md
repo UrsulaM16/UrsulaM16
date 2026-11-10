@@ -9,11 +9,11 @@
 
 Mi trayectoria profesional combina la atención a usuarios, la gestión de incidencias y una nueva etapa de formación tecnológica.
 
-Durante mi experiencia laboral utilicé Salesforce CRM para registrar y actualizar casos, realizar seguimiento de solicitudes y coordinar comunicaciones con equipos técnicos. También creé plantillas para organizar las incidencias recurrentes.
+En Grupo Diusframi atendí a comercios con incidencias en servicios y terminales de pago (TPV). Utilicé Salesforce CRM para abrir y actualizar casos, registrar observaciones y hacer seguimiento. También coordiné solicitudes por correo con técnicos y mensajería y creé plantillas para documentar incidencias recurrentes.
 
 Ahora estoy ampliando mis conocimientos en programación y bases de datos. Me interesa especialmente entender cómo funcionan las aplicaciones, resolver problemas y hacer que la tecnología resulte útil para las personas.
 
-### Tecnologías que estoy aprendiendo y utilizando
+### Tecnologías y herramientas
 
 - **Python:** fundamentos, programación orientada a objetos y pruebas.
 - **Bases de datos:** SQL, SQLite y diseño relacional.
@@ -23,7 +23,7 @@ Ahora estoy ampliando mis conocimientos en programación y bases de datos. Me in
 
 ### Mi formación
 
-- **IFCD0112:** fase lectiva finalizada; prácticas en empresa pendientes.
+- **Programación con Lenguajes Orientados a Objetos y Bases de Datos Relacionales (IFCD0112).** Fase lectiva finalizada. Prácticas en empresa pendientes.
 - **Especialista en Big Data:** 230 horas.
 - **Big Data:** 40 horas.
 - **Introducción al desarrollo de aplicaciones orientada a objetos:** 30 horas.
@@ -34,8 +34,6 @@ Aquí documento mis ejercicios, prácticas y avances en programación y bases de
 
 **[Bases de datos relacionales](https://github.com/UrsulaM16/bdd)**  
 Apuntes y material de estudio sobre diseño y fundamentos de bases de datos.
-
-Estoy preparando una selección de ejercicios de Python para mostrar de forma clara mi proceso de aprendizaje.
 
 ### Hacia dónde quiero avanzar
 
