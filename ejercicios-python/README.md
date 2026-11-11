@@ -9,13 +9,18 @@ Selección de prácticas del curso IFCD0112, adaptadas para ejecutarse de forma 
 
 ## Pruebas automatizadas
 
-Piedra, papel o tijera tiene **cinco pruebas con `unittest`**, ejecutadas correctamente en una comprobación local (incluyen empates, ganadores, mayúsculas, espacios y entradas no válidas).
+**Ocho pruebas con `unittest` superadas en una comprobación local:**
+
+- [Tres pruebas de herencia](poo/test_fabrica.py): clases, número de llantas y representación de vehículos.
+- [Cinco pruebas de piedra, papel o tijera](funciones/test_piedra_papel_tijera.py): empates, ganadores, mayúsculas, espacios y entradas no válidas.
 
 Desde la raíz del repositorio:
 
 ```bash
 python3 -m unittest discover -s ejercicios-python/funciones -p 'test_*.py' -v
+python3 -m unittest discover -s ejercicios-python/poo -p 'test_*.py' -v
 ```
+
 
 ### Contrato de `run(player1, player2)`
 
