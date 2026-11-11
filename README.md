@@ -29,10 +29,10 @@ Durante mi etapa en Diusframi (2023–2025), trabajé con Salesforce CRM para re
 ### Mi trabajo en GitHub
 
 **[Ejercicios de Python](ejercicios-python/)**  
-Dos prácticas ejecutables sobre herencia y funciones con condicionales.
+Dos prácticas ejecutables sobre herencia y condicionales, con **8 pruebas automatizadas** documentadas y comprobadas localmente.
 
 **[Bases de datos relacionales](https://github.com/UrsulaM16/bdd)**  
-Apuntes y material de estudio sobre diseño y fundamentos de bases de datos.
+Apuntes de diseño relacional y un [ejercicio SQL con tablas, filtros y JOIN](https://github.com/UrsulaM16/bdd/blob/main/ejemplo_consultas.sql), probado con SQLite.
 
 ### Hacia dónde quiero avanzar
 
